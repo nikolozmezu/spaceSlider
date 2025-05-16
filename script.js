@@ -1,4 +1,4 @@
-import Slider from '/lib/mySlider.js';
+import Slider from './lib/mySlider.js';
 
 const slider = document.getElementById('slider');
 
