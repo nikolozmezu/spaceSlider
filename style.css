@@ -91,14 +91,13 @@ table {
     margin: 0 auto;
 }
 
-body { margin-top: 120px; }
+body { margin-block: 120px; }
 
 img {
     height: 100%;
     width: 100%;
     object-fit: cover;
 }
-
 
 
 
@@ -134,7 +133,7 @@ img {
 
 
 #slider {
-    height: 500px !important;
+    height: 600px !important;
 }
 
 

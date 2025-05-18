@@ -9,7 +9,8 @@ const mySlider = new Slider(slider, {
     pagination: false,
     progressbar: false,
     arrows: true,
-    additionalSettings: true,
+    additionalSettings: false,
+
 });
 
 
